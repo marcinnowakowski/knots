@@ -1,0 +1,7 @@
+{:mvn/repos
+ {"clojars" {:url "https://clojars.org/repo"}
+  "central" {:url "https://repo1.maven.org/maven2/"}}
+ :deps
+ {org.clojure/clojure {:mvn/version "1.11.1"}
+  metasoarous/oz {:mvn/version "2.0.0-alpha5"}}}
+
