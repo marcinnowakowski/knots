@@ -3,5 +3,5 @@
   "central" {:url "https://repo1.maven.org/maven2/"}}
  :deps
  {org.clojure/clojure {:mvn/version "1.11.1"}
-  metasoarous/oz {:mvn/version "2.0.0-alpha5"}}}
-
+  metasoarous/oz {:mvn/version "2.0.0-alpha5"}
+  org.jfree/jfreechart {:mvn/version "1.5.3"}}}
